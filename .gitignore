@@ -1,4 +1,4 @@
-HELP.md
+HELP.mdgit remote add origin https://github.com/edopore/demo1.git
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
